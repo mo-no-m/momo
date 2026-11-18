@@ -1,9 +1,9 @@
 ---
 name: evidence-based-academic-review
-description: 循证式学术综述、课程论文和文献进展分析。用于研究方向探索、高质量文献推荐、选题、论证框架、文献筛选与核查、分节写作、审稿反馈评估、引言摘要及全文统稿；以真实证据、自然衔接和作者综合观点为核心。Use for academic narrative reviews, citation audits, and evidence-grounded manuscript revision, not experimental protocols.
+description: 循证式学术综述、课程论文和文献进展分析。用于研究方向探索、高质量文献推荐、选题、论证框架、文献筛选与核查、分节写作、审稿反馈评估、引言摘要、全文统稿及可编辑科研配图；以真实证据、自然衔接和作者综合观点为核心。Use for academic narrative reviews, citation audits, and evidence-grounded manuscript revision, and editable scientific illustrations, not experimental protocols.
 ---
 
-# 循证式学术综述写作 · v1.1
+# 循证式学术综述写作 · v1.2
 
 ## 启动入口
 
@@ -28,6 +28,12 @@ description: 循证式学术综述、课程论文和文献进展分析。用于�
 7. **后写前言**：默认正文与结论完成后写引言、摘要、关键词。引言以研究背景和未解决问题切入，定义服务于论述，再说明范围与目的；摘要概括问题、证据范围、主要认识、局限及总观点，无新数据，通常不引文献；关键词3–6个，按学科或期刊要求。用户明确不同顺序时遵从。
 8. **全文统稿**：参照 `references/style-and-delivery.md` 检查自然过渡、段落功能、逻辑递进、术语、证据层次及重复句。尽量控制篇幅但不为了均分字数添加无关细节。顺序编码制按全文首次出现位置统一重编号；保留原编号仅当客观符合规则。最后检查所有文中引用与文末条目一一对应，并记录仍未确定的来源、指标及更正事项。
 9. **交付**：提供完整可编辑正文与参考文献，单独列出影响提交的未决事项。若用户只需要某一步，交付相应部分，不重复输出已接受的内容。可使用 `scripts/check_manuscript.py` 对 Markdown/纯文本稿机械检查顺序编码和字数（不是学术证据验证）。
+
+## 科研配图与可编辑交付
+
+- 当用户要求流程图、路线图、机制图、图形摘要或比较图时，必须读取 `references/scientific-illustration.md` 并遵循其中八条视觉规范。在绘图前询问未明确的配色及风格；用户无偏好则自行合理搭配。已给出的偏好不重复询问。
+- 以科学准确性及源文件可编辑性为先：白底、简约纯2D、矢量风格、色块平涂、线宽统一、重复元素保持独立且一致、尽量少框。默认提供真实可编辑SVG或原生形状PPTX及预览；不能用整张位图代替可编辑源文件。
+- 按实际可用权限选择 Illustrator、Photoshop、PowerPoint 等工具；无法控制本机软件时提供可编辑替代文件及可在授权本机环境继续执行的方案，不声称已调用未连接软件或已通过未进行的验证。图的机制、关系、图注及引用必须可追溯，不将综述变为高风险生物工程操作图。
 
 ## 固定写作偏好
 
