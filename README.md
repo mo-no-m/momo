@@ -19,6 +19,8 @@
 
 新增[科研配图与可编辑交付规范](evidence-based-academic-review/references/scientific-illustration.md)：绘图前明确配色，白底纯2D矢量风格，统一组件且保留独立可编辑对象，优先交付 SVG / 原生形状 PPTX 与预览；本地软件调用取决于实际权限与能力。
 
+需要流程图、技术路线示意图或机制图时，可启用[科研绘图与可编辑交付规范](evidence-based-academic-review/references/scientific-figures.md)。默认白底扁平矢量、同类元素一致，优先独立可编辑 SVG/PPTX；根据用户偏好确认配色与格式。本地软件调用取决于实际访问权限。
+
 ## 配套工具
 - [综述引用检查](evidence-based-academic-review/scripts/check_manuscript.py)：`python evidence-based-academic-review/scripts/check_manuscript.py manuscript.md`
 - [双栏精读工具与示例](scholarly-bilingual-reader/README.md)
