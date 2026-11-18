@@ -4,7 +4,7 @@
 
 | Skill | 用途 |
 | --- | --- |
-| [循证式学术综述写作](evidence-based-academic-review/SKILL.md) | v1.1 · 研究方向探索、高质量文献推荐、证据核查、分节写作及全文统稿 |
+| [循证式学术综述写作](evidence-based-academic-review/SKILL.md) | v1.2 · 研究方向探索、高质量文献推荐、证据核查、分节写作、全文统稿及可编辑科研配图 |
 | [学术论文双栏精读](scholarly-bilingual-reader/SKILL.md) | 授权论文原文、逐段中文翻译、论证分析、五色英文标注及离线 HTML |
 
 ## 安装
@@ -14,8 +14,10 @@
 - 使用 $evidence-based-academic-review，先确定综述主线、核查证据，再分节撰写。
 - 使用 $scholarly-bilingual-reader，将我提供的授权论文整理成逐段对应的双栏精读 HTML。
 
-## 综述写作 v1.1
+## 综述写作 v1.2
 仅提供研究方向时，默认先推荐15–20篇代表性文献并提出候选论证主线，待确认后再写正文。已有题目或文献时，先核查证据并补充缺口。详见[文献检索与推荐规范](evidence-based-academic-review/references/literature-discovery.md)。
+
+新增[科研配图与可编辑交付规范](evidence-based-academic-review/references/scientific-illustration.md)：绘图前明确配色，白底纯2D矢量风格，统一组件且保留独立可编辑对象，优先交付 SVG / 原生形状 PPTX 与预览；本地软件调用取决于实际权限与能力。
 
 ## 配套工具
 - [综述引用检查](evidence-based-academic-review/scripts/check_manuscript.py)：`python evidence-based-academic-review/scripts/check_manuscript.py manuscript.md`
