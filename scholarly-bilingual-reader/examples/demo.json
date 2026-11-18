@@ -1,0 +1,31 @@
+{
+  "title": "Fictional reading example (not a real publication)",
+  "authors": "Demo author",
+  "source": "Synthetic demonstration; no DOI",
+  "coverage": "One invented paragraph, for layout demonstration only.",
+  "sections": [
+    {
+      "title": "Introduction",
+      "paragraphs": [
+        {
+          "id": "P001",
+          "page": "Demo page 1",
+          "en": "Clear labels make tables easier to read. In a fictional classroom exercise, readers preferred the labeled version. This example does not establish a general effect.",
+          "zh": "清晰的标签使表格更易阅读。在一项虚构的课堂练习中，读者更喜欢有标签的版本。这个例子并不能证明普遍效应。",
+          "function": "提出观点、给出虚构例证并说明局限。",
+          "logic": "从观点过渡至证据边界。",
+          "analysis": "仅演示论证注释，不代表真实研究结果。",
+          "highlights": [
+            {
+              "start": 0,
+              "end": 41,
+              "kind": "claim"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "overview": "此页面仅演示逐段对齐与注释；不包含真实论文。",
+  "references": []
+}
