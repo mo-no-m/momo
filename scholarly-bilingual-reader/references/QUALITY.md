@@ -1,3 +1,0 @@
-# Quality checks
-
-Compare the reading units to the lawful source in actual reading order; verify columns, cross-page paragraphs, tables, figures, captions and bibliography. Mark inaccessible or excluded material explicitly. Verify all translation and annotation pairs, page labels and highlight offsets; never infer missing source text. Check numerical values, negation and uncertainty. Validate JSON, render HTML, open offline, check desktop/mobile layout, search and navigation. Verify images are authorized and embedded. Script checks are structural only, not proof of source fidelity or scientific accuracy. Never automatically publish the resulting reading document.
