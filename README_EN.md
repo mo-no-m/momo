@@ -1,23 +1,12 @@
-# Evidence-Based Academic Review Skill
+# momo · Academic Research Skills
 
-A reusable workflow for evidence-grounded narrative reviews and academic manuscript revision.
+Independent reusable skills for scholarly reading and writing.
 
-## Workflow
+- [Evidence-Based Academic Review](evidence-based-academic-review/SKILL.md): evidence-first literature review planning, section drafting, citation auditing, and revision.
+- [Scholarly Bilingual Reader](scholarly-bilingual-reader/SKILL.md): aligned English/Chinese reading, paragraph-level argument commentary, five-color highlights, and standalone HTML for authorized source material.
 
-Define the research question and tentative thesis; verify literature; plan section-level arguments; draft and audit each section; evaluate external feedback; synthesize conclusions; write the introduction and abstract; revise the complete manuscript and check references.
+Download the repository ZIP and copy the desired skill directory into a compatible client's skill location, such as a Codex project's `.agents/skills/`. Client capabilities and source access vary.
 
-## Setup
-
-Download or clone this repository, and copy the `evidence-based-academic-review/` directory into the skills directory of a compatible client, for example `.agents/skills/` in a Codex project. Availability and access to research databases depend on the client.
-
-Example: "Use $evidence-based-academic-review to help me plan an academic narrative review. Verify evidence before drafting and work one section at a time."
-
-The Python 3 checker can be run with:
-
-```bash
-python evidence-based-academic-review/scripts/check_manuscript.py manuscript.md
-```
-
-It checks numeric citation order, matching bibliography entries, and character counts, not scientific validity. Always verify primary sources, report inaccessible evidence, and respect academic integrity, copyright, ethics, and safety requirements.
+See the [reader usage guide](scholarly-bilingual-reader/README.md) for the data format, rendering and synthetic example. Scripts do not replace source verification or model reasoning. Respect academic integrity, copyright, privacy, ethics and safety. No license has been specified.
 
 [中文说明](README.md)
