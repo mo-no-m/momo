@@ -1,0 +1,278 @@
+{
+  "version": "1.3",
+  "background": "#FFFFFF",
+  "text": "#303030",
+  "neutral_stroke": "#505050",
+  "source_note": "用户提供19张配色参考图，按上传顺序收录色值及自拟名称，不转载原图。P03–P05 标签模糊或与色块不符，使用色块中心区域中位RGB近似采样；其他组按可辨印刷HEX收录。",
+  "palettes": [
+    {
+      "id": "P01",
+      "name": "勃艮第灰",
+      "hex": [
+        "#713E50",
+        "#A56778",
+        "#C997A3",
+        "#E9D5DB",
+        "#526879",
+        "#8FA4B3",
+        "#C4CFD6",
+        "#D5B78C"
+      ],
+      "use": "对照、材料表征、证据比较",
+      "source": "image_label",
+      "reference_image": 1
+    },
+    {
+      "id": "P02",
+      "name": "雾紫樱粉",
+      "hex": [
+        "#969BE7",
+        "#EEC1DD",
+        "#D1D0EF",
+        "#FCF8FB"
+      ],
+      "use": "柔和概念图、分类示意",
+      "source": "image_label",
+      "reference_image": 2
+    },
+    {
+      "id": "P03",
+      "name": "薄荷蜜桃",
+      "hex": [
+        "#6AF2DA",
+        "#EAF6A2",
+        "#FBC7B9",
+        "#F4F7D8"
+      ],
+      "use": "轻柔辅助区室、概念图",
+      "source": "sampled_approximation",
+      "reference_image": 3
+    },
+    {
+      "id": "P04",
+      "name": "春日粉蓝绿黄",
+      "hex": [
+        "#FCC0C0",
+        "#ABD9F0",
+        "#9BE9B9",
+        "#FDDE8C"
+      ],
+      "use": "分类概念、不同对象",
+      "source": "sampled_approximation",
+      "reference_image": 4
+    },
+    {
+      "id": "P05",
+      "name": "珊瑚薄荷",
+      "hex": [
+        "#F95E59",
+        "#FD7D7B",
+        "#9BE0CC",
+        "#C3EEA2"
+      ],
+      "use": "冷暖对照、重点提示",
+      "source": "sampled_approximation",
+      "reference_image": 5
+    },
+    {
+      "id": "P06",
+      "name": "玫粉鸢紫湖蓝",
+      "hex": [
+        "#E95D8A",
+        "#837CDA",
+        "#A3D5F4",
+        "#E9F3F8"
+      ],
+      "use": "多组分类、少量重点强调",
+      "source": "image_label",
+      "reference_image": 6
+    },
+    {
+      "id": "P07",
+      "name": "冰川蓝灰",
+      "hex": [
+        "#DBE5F1",
+        "#CCE4F0",
+        "#C6DFE4",
+        "#BDD0DE",
+        "#B1D6DF"
+      ],
+      "use": "流程分区、浅色填充",
+      "source": "image_label",
+      "reference_image": 7
+    },
+    {
+      "id": "P08",
+      "name": "奶油灰绿",
+      "hex": [
+        "#EAE4CE",
+        "#D0DDC9",
+        "#B7CFDB",
+        "#D2D5BA",
+        "#ABB9C4"
+      ],
+      "use": "组织区室、背景辅助色",
+      "source": "image_label",
+      "reference_image": 8
+    },
+    {
+      "id": "P09",
+      "name": "柔雾玫瑰",
+      "hex": [
+        "#F4E5E8",
+        "#F0DADD",
+        "#EDCCCE",
+        "#E6BDBF",
+        "#E19B9F"
+      ],
+      "use": "同一对象的有序层级",
+      "source": "image_label",
+      "reference_image": 9
+    },
+    {
+      "id": "P10",
+      "name": "鼠尾草奶油",
+      "hex": [
+        "#EDEFE1",
+        "#E8EBCE",
+        "#E6DFC5",
+        "#D9D8BC",
+        "#C2D4BC"
+      ],
+      "use": "生态、组织背景及层级",
+      "source": "image_label",
+      "reference_image": 10
+    },
+    {
+      "id": "P11",
+      "name": "雾霭蓝紫",
+      "hex": [
+        "#E6E7EC",
+        "#DEE4F0",
+        "#D9E0F0",
+        "#D5DCEF",
+        "#C4D4E9"
+      ],
+      "use": "低干扰层级、辅助区域",
+      "source": "image_label",
+      "reference_image": 11
+    },
+    {
+      "id": "P12",
+      "name": "奶油麦芽",
+      "hex": [
+        "#F6F1DD",
+        "#ECF1D3",
+        "#F2E9D8",
+        "#F0E9CD",
+        "#E4D8BF"
+      ],
+      "use": "浅色辅助区域、分区",
+      "source": "image_label",
+      "reference_image": 12
+    },
+    {
+      "id": "P13",
+      "name": "冰薄荷青",
+      "hex": [
+        "#E6F1EB",
+        "#E4F2F3",
+        "#DAF2F4",
+        "#C2E4E5",
+        "#A5D3D3"
+      ],
+      "use": "医学示意、阶段背景",
+      "source": "image_label",
+      "reference_image": 13
+    },
+    {
+      "id": "P14",
+      "name": "晴空水蓝",
+      "hex": [
+        "#DAE9F0",
+        "#CCE2ED",
+        "#C6E1F2",
+        "#BCE0EE",
+        "#A9CFE6"
+      ],
+      "use": "层级表达、水系蓝辅助填充",
+      "source": "image_label",
+      "reference_image": 14
+    },
+    {
+      "id": "P15",
+      "name": "青蓝紫绿",
+      "hex": [
+        "#CBD6F3",
+        "#A4BDFF",
+        "#7CC6E1",
+        "#9586BD",
+        "#2395C0",
+        "#83C598"
+      ],
+      "use": "多类别示意、机制图",
+      "source": "image_label",
+      "reference_image": 15
+    },
+    {
+      "id": "P16",
+      "name": "蓝紫珊瑚",
+      "hex": [
+        "#C5DEFF",
+        "#97AFFF",
+        "#92BDEE",
+        "#5C87BB",
+        "#A99CD5",
+        "#F2A8A8"
+      ],
+      "use": "多组对照、细胞概念图",
+      "source": "image_label",
+      "reference_image": 16
+    },
+    {
+      "id": "P17",
+      "name": "海蓝草绿",
+      "hex": [
+        "#9CB1E1",
+        "#76B0CB",
+        "#A8B3DF",
+        "#00A2D5",
+        "#6C8EC8",
+        "#5EBA5A"
+      ],
+      "use": "多模块流程、分类",
+      "source": "image_label",
+      "reference_image": 17
+    },
+    {
+      "id": "P18",
+      "name": "深海蓝暖杏",
+      "hex": [
+        "#E7F8FF",
+        "#6BA8CD",
+        "#85D3F2",
+        "#015487",
+        "#92A0B5",
+        "#FFD8A0"
+      ],
+      "use": "主次关系、冷暖对照",
+      "source": "image_label",
+      "reference_image": 18
+    },
+    {
+      "id": "P19",
+      "name": "青紫莓红",
+      "hex": [
+        "#5BC5D4",
+        "#23A0C4",
+        "#7D91C5",
+        "#9775A9",
+        "#794B90",
+        "#A95797"
+      ],
+      "use": "复杂多类别关系、机制概念",
+      "source": "image_label",
+      "reference_image": 19
+    }
+  ]
+}
