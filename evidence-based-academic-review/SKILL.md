@@ -1,6 +1,6 @@
 ---
 name: evidence-based-academic-review
-description: 循证式学术综述、课程论文和文献进展分析。用于研究方向探索、高质量文献推荐、选题、论证框架、文献筛选与核查、分节写作、审稿反馈评估、引言摘要、全文统稿及可编辑科研配图；以真实证据、自然衔接和作者综合观点为核心。Use for academic narrative reviews, citation audits, and evidence-grounded manuscript revision, and editable scientific illustrations, not experimental protocols.
+description: 循证式学术综述、课程论文和文献进展分析。用于研究方向探索、高质量文献推荐、选题、论证框架、文献筛选与核查、分节写作、审稿反馈评估、引言摘要、全文统稿及可编辑科研配图；以真实证据、自然衔接和作者综合观点为核心。Use for academic narrative reviews, citation audits, editable scientific illustrations, and evidence-grounded manuscript revision, and editable scientific illustrations, not experimental protocols.
 ---
 
 # 循证式学术综述写作 · v1.2
@@ -34,6 +34,13 @@ description: 循证式学术综述、课程论文和文献进展分析。用于�
 - 当用户要求流程图、路线图、机制图、图形摘要或比较图时，必须读取 `references/scientific-illustration.md` 并遵循其中八条视觉规范。在绘图前询问未明确的配色及风格；用户无偏好则自行合理搭配。已给出的偏好不重复询问。
 - 以科学准确性及源文件可编辑性为先：白底、简约纯2D、矢量风格、色块平涂、线宽统一、重复元素保持独立且一致、尽量少框。默认提供真实可编辑SVG或原生形状PPTX及预览；不能用整张位图代替可编辑源文件。
 - 按实际可用权限选择 Illustrator、Photoshop、PowerPoint 等工具；无法控制本机软件时提供可编辑替代文件及可在授权本机环境继续执行的方案，不声称已调用未连接软件或已通过未进行的验证。图的机制、关系、图注及引用必须可追溯，不将综述变为高风险生物工程操作图。
+
+## 可编辑科研配图（按需启用）
+
+- 用户要求流程图、概念性技术路线图、机制图、图形摘要等，或综述结构适合用示意图呈现时，读取 `references/scientific-figures.md`。先明确图的科学目的和证据来源；如配图仅为建议，先向用户提出建议，不擅自增加图。正式绘图前确认配色/风格及所需编辑格式；已有偏好或授权自行选择时不重复询问。
+- 默认白底、扁平2D矢量、无渐变阴影或3D渲染、简约少框；同类对象颜色、形状、尺寸、比例、线宽和细节一致；重复小元素分别绘制为可独立编辑对象，不合并轮廓。Blender 风格仅指专业、精细统一的插画感。
+- 优先实际交付独立矢量图元的 SVG、原生可编辑形状的 PPTX、适合插入的预览及图注。需要 AI/PSD 时先检查本地软件与权限，能调用则实际调用；不能调用时提供可编辑中间格式，并在确有必要时引导使用具备本地访问权限的 Codex 或受支持的 Work 环境。不得将普通图片声称为可编辑源文件，或声称已调用未经验证的软件。
+- 图的科学准确性、证据边界、科研伦理、版权和安全要求与正文一致。不得用机制图或路线图替代高风险生物工程的操作、构建、优化或传播指导。交付前检查对象独立性、视觉效果及文件兼容性，明确未能验证的事项。
 
 ## 固定写作偏好
 
