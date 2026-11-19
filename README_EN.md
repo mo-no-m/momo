@@ -2,7 +2,9 @@
 
 A reusable skill for evidence-based academic review writing.
 
-- [Evidence-Based Academic Review](evidence-based-academic-review/SKILL.md): v1.3: research direction exploration, literature discovery, evidence-first review planning, section drafting, citation auditing, revision, and editable scientific illustrations. See the [literature discovery guide](evidence-based-academic-review/references/literature-discovery.md) and [editable scientific illustration guidelines](evidence-based-academic-review/references/scientific-illustration.md). Includes a [19-palette scientific color library](evidence-based-academic-review/references/color-palettes.md) and visual palette selection before drawing. SVG and native-shape PPTX are preferred; local software use depends on actual tool access and permissions.
+- [Evidence-Based Academic Review](evidence-based-academic-review/SKILL.md): v1.4: research direction exploration, literature discovery, evidence-first review planning, section drafting, citation auditing, revision, and editable scientific illustrations. See the [literature discovery guide](evidence-based-academic-review/references/literature-discovery.md) and [editable scientific illustration guidelines](evidence-based-academic-review/references/scientific-illustration.md). Includes a [19-palette scientific color library](evidence-based-academic-review/references/color-palettes.md) and visual palette selection before drawing. SVG and native-shape PPTX are preferred; local software use depends on actual tool access and permissions.
+
+**v1.4 approval gates:** present the complete outline and wait for explicit approval before drafting. Draft and audit one section at a time; request approval and stop after each section. Apply revisions and request approval again before advancing. Only finalize after the relevant approvals; a general request for a full review does not waive these gates.
 
 Download the repository ZIP and copy the desired skill directory into a compatible client's skill location, such as a Codex project's `.agents/skills/`. Client capabilities and source access vary.
 
